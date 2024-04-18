@@ -1,8 +1,10 @@
-# todo
+# simple todo app ui 
 
-"A new Flutter project."
 
-## Getting Started
+## demo video
+https://github.com/kareemabdeen/To-do-app-ui/assets/118139061/6aef974d-4fa9-4c01-8dc1-ef9752242d1b
+
+
 
 This project is a starting point for a Flutter application.
 
